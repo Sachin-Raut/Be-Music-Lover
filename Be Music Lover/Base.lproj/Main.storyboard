@@ -643,30 +643,29 @@
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="1178" id="cEp-Xs-HsO"/>
                                                 </constraints>
-                                                <string key="text">1. When you launch the application for the 1st time, "Main Screen" is displayed. Initially in that "Main Screen" TOP 10 videos are displayed in a list. You can scroll up &amp; down to see all TOP 10 videos.
+                                                <mutableString key="text">1. Discover iTunes most popular music videos &amp; listen to song samples before purchasing. The main purpose of the app is to promote the songs.
 
-2. In "Main Screen", near top there is a "Search Bar". You can search Music-Videos by artist name or by video rank or by video name.
+2. Songs previews are only streamed, they aren't downloaded, saved, cached or synchronised with video.
 
-3. If you want to see the details of the "Music-Video" then just tap on the row. (for eg. if you want to see details of 1st "Music-Video", then tap on 1st row). Now "Music-Video detail" screen is displayed.
+3. When you launch the application for the 1st time, "Main Screen" is displayed. Initially in that "Main Screen" TOP 10 videos are displayed in a list.
 
-4. In iPhone portrait orientation, in "Music-Video detail" screen, at the very top of the screen "Artist name" is displayed. Then "Music-Video name" is displayed below "Artist name". Then bigger image of Music-Video is displayed below "Artist name". Now below "Music-Video image", in the left side "Genre" is displayed &amp; in the right side the "Purchase Price" of Music-Video is displayed.
+4. User can search Music-Videos by artist name or by video rank or by video name.
 
-5. Below "Genre" &amp; "Purchase Price", the "Copyright information" of the "Music-Video" is displayed.
+5. If you want to see the details of the "Music-Video" then just tap on the row. (for eg. if you want to see details of 1st "Music-Video", then tap on 1st row). Now "Music-Video detail" screen is displayed. Here user can tap "Download on iTunes" button and then purchase music-video from iTunes.
 
+6. In iPhone portrait orientation, in "Music-Video detail" screen, at the very top of the screen "Artist name" is displayed. Then "Music-Video name" is displayed below "Artist name". Then bigger image of Music-Video is displayed below "Artist name". Now below "Music-Video image", in the left side "Genre" is displayed &amp; in the right side the "Purchase Price" of Music-Video is displayed.
 
-6. In iPhone landscape orientation, "Music-Video name","Genre", "Purchase Price" &amp; "Copyright information" is not displayed.
+7. If you want to play the sample, then tap "Play button" at the bottom left corner of "Music-Video detail" screen.
 
-7. If you want to play the trailer, then press "Play button" at the bottom left corner of "Music-Video detail" screen.
+8. If you want to share details of this "Music-Video", then just tap the "Share button" at the bottom right corner of "Music-Video detail" screen. Now app will display some application icons such as Message, Mail, Twitter, Facebook etc. You can select one of them and share the details of "Music-Video" on the respective application.
 
-8. If you want to share details of this "Music-Video", then just press the "Share button" at the bottom right corner of "Music-Video detail" screen. Now app will display some application icons such as Message, Mail, Twitter, Facebook etc. You can select one of them and share the details of "Music-Video" on the respective application.
-
-9. If you press "Back button" in the top left corner, then you will be taken back to the "Main Screen".
+9. If you tap "Back button" in the top left corner, then you will be taken back to the "Main Screen".
 
 10. In "Main Screen", if you press "Settings button" at the bottom left corner of the screen then "Settings Screen" is displayed.
 
 11. In "Settings Screen", if you press "About", then "General Info" about "Be Music Lover" is displayed.
 
-12. In "Settings Screen", if you press "Feedback", then you can write your feedback about the app &amp; send that feedback to the "Be Music Lover" support team by pressing "Send button" in the top right corner of the "Settings Screen". If you change your mind &amp; want to cancel, then you can press "Cancel button" in the top left of the "Settings Screen". This will show "Delete Draft", "Save Draft" &amp; "Cancel" buttons. Take whatever action you want.</string>
+12. In "Settings Screen", if you press "Feedback", then you can write your feedback about the app &amp; send that feedback to the "Be Music Lover" support team by pressing "Send button" in the top right corner of the "Settings Screen". If you change your mind &amp; want to cancel, then you can press "Cancel button" in the top left of the "Settings Screen". This will show "Delete Draft", "Save Draft" &amp; "Cancel" buttons. Take whatever action you want.</mutableString>
                                                 <fontDescription key="fontDescription" type="system" pointSize="15"/>
                                                 <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                                 <nil key="highlightedColor"/>
