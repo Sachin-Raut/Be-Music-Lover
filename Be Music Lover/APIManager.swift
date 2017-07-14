@@ -14,7 +14,7 @@ class APIManager
 {
     func loadData(_ urlString: String, completion:@escaping ([Videos])-> Void)
     {
-        //create singleton object
+        //create singleton objects
         
         let session = URLSession.shared
         
